@@ -1,7 +1,10 @@
 ## Hi there 👋
 
-🔭 I’m currently learning python
+🌱 I’m currently learning python
 😄 Pronouns: He/Him
+⚡ Fun fact: Java and C# are the languages i know.
+⚡ Fun fact: HTML and CSS are the scripts i know.
+
 <!--
 **Yuanthewan/Yuanthewan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
