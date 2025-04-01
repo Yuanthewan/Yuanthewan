@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 🔭 I’m currently learning python
-😄 Pronouns: His/Him/He
+😄 Pronouns: He/Him
 <!--
 **Yuanthewan/Yuanthewan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
